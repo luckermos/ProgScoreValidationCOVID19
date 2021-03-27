@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Projeto de Monografia (TCC) com o objetivo de validar o escore ABC<sub>2</sub>-SPH que foi desenvolvido para estimar e estratificar o risco de óbito de pacientes com COVID-19 no Brasil
+Projeto de Monografia (TCC) com o objetivo de avaliar o escore prognóstico ABC<sub>2</sub>-SPH que foi desenvolvido para estimar e estratificar o risco de óbito de pacientes internados com COVID-19 no Brasil
 
 ## Resumo
 
