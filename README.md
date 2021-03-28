@@ -1,3 +1,4 @@
+![](https://github.com/luckermos/ProgScoreValidationCOVID19/blob/main/risk-stratification.png?raw=true)
 # Validação de Escores Prognósticos para Mortalidade de Pacientes com COVID-19 no Brasil
 
 ## Descrição
